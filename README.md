@@ -23,7 +23,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone <url-of-the-repository>
+git clone <https://github.com/infantesromeroadrian/NLPChatbotComercial.git>
 Navigate to the project directory:
 
 bash
